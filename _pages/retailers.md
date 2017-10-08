@@ -26,6 +26,13 @@ My research has been used to power smart-city infrastructure with [Vivacity](htt
 
 # Scene Understanding
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 Scene understanding is a fundamental task in computer vision which requires understanding the scene's geometry and semantic structure.
 Initially, I worked on a semantic segmentation algorithm called [SegNet](http://mi.eng.cam.ac.uk/projects/segnet/).
 More recently, I have been interested in learning depth, instance and semantic segmentation from a [unified deep learning architecture](https://arxiv.org/pdf/1705.07115.pdf).
