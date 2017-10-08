@@ -4,9 +4,5 @@ main:
     url: /research/
   - title: "Blog"
     url: /blog/
-  - title: "Talks"
-    url: /talks/
-  - title: "Publications"
-    url: /publications/
   - title: "About"
     url: /about/
