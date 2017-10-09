@@ -8,7 +8,7 @@ title: <br><br><br><br><br>About
 permalink: /about/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/kings.jpg
   caption: "Photo: Olly McMillan"
 ---
@@ -24,10 +24,6 @@ He graduated with a Bachelor of Engineering with First Class Honours in 2013 fro
 In 2014, he was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/) to study towards a Ph.D. at the University of Cambridge.
 He is a member of the [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/Main/CVR) and is supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/).
 
-Alex's research investigates applications of deep learning for robot perception and control.
-He has developed computer vision algorithms to enable autonomous vehicles to understand complex and dynamic scenes.
-In particular, he is excited about leveraging geometry for unsupervised learning, reasoning under uncertainty with Bayesian deep learning and developing end-to-end systems which can reason from perception to control.
-His technology has been used to power smart-city infrastructure with [Vivacity](http://www.vivacitylabs.com/), control self-driving cars with [Toyota Research Institute](http://www.tri.global/) and enable next-generation drone flight with [Skydio](https://www.skydio.com/).
 
 ## Contact details
 
@@ -35,13 +31,13 @@ His technology has been used to power smart-city infrastructure with [Vivacity](
     <ul class="author__urls social-icons" style="">
         <li itemprop="homeLocation" itemscope="" itemtype="http://schema.org/Place">
             <i class="fa fa-phone-square" aria-hidden="true"></i> 
-            <span itemprop="name">Tania  - 027 227 5956</span>
+            Tania:  027 227 5956
         </li>
         <li>
             <a href="mailto:tania@nordicstyle.co.nz">
                 <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>
                 <meta itemprop="email" content="tania@nordicstyle.co.nz">
-                Email
+                Email:  tania@nordicstyle.co.nz
             </a>
         </li>
     </ul>
