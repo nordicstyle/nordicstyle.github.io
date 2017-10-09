@@ -38,24 +38,12 @@ His technology has been used to power smart-city infrastructure with [Vivacity](
             <span itemprop="name">Engineering Department, University of Cambridge, Cambridge CB2 1PZ, United Kingdom</span>
         </li>
         <li>
-            <a href="mailto:agk34@cam.ac.uk">
+            <a href="mailto:tania@nordicstyle.co.nz">
                 <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>
-                <meta itemprop="email" content="agk34@cam.ac.uk">
+                <meta itemprop="email" content="tania@nordicstyle.co.nz">
                 Email
             </a>
         </li>
-        <li><a href="https://scholar.google.co.uk/citations?user=+" itemprop="sameAs">
-            <i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>
-            Google Scholar
-        </a></li>
-        <li><a href="https://www.linkedin.com/in/alexgkendall" itemprop="sameAs">
-            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> 
-            LinkedIn
-        </a></li>
-        <li><a href="https://twitter.com/alexgkendall" itemprop="sameAs">
-            <i class="fa fa-fw fa-twitter" aria-hidden="true"></i> 
-            Twitter
-        </a></li>
         <li><a href="https://github.com/alexgkendall" itemprop="sameAs">
             <i class="fa fa-fw fa-github" aria-hidden="true"></i> 
             Github
