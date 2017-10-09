@@ -44,15 +44,6 @@ His technology has been used to power smart-city infrastructure with [Vivacity](
                 Email
             </a>
         </li>
-        <li><a href="https://scholar.google.co.uk/citations?user=+" itemprop="sameAs">
-            <i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>
-            Google Scholar
-        </a></li>
- 
-        <li><a href="https://github.com/alexgkendall" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> 
-            Github
-        </a></li>
     </ul>
 </div>
 
