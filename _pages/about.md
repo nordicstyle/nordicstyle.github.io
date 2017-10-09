@@ -44,9 +44,8 @@ His technology has been used to power smart-city infrastructure with [Vivacity](
                 Email
             </a>
         </li>
-        <li><a href="https://github.com/alexgkendall" itemprop="sameAs">
-            <i class="fa fa-fw fa-github" aria-hidden="true"></i> 
-            Github
+        <li><i class="fa fa-phone-square" aria-hidden="true"></i>
+            Tania 027 227 5957
         </a></li>
     </ul>
 </div>
