@@ -31,22 +31,19 @@ His technology has been used to power smart-city infrastructure with [Vivacity](
 
 ## Contact details
 
-<div class="author__urls-wrapper">
-    <ul class="author__urls social-icons" style="">
-        <li itemprop="homeLocation" itemscope="" itemtype="http://schema.org/Place">
-            <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
-            <span itemprop="name">Engineering Department, University of Cambridge, Cambridge CB2 1PZ, United Kingdom</span>
-        </li>
-        <li>
-            <a href="mailto:tania@nordicstyle.co.nz">
-                <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>
-                <meta itemprop="email" content="tania@nordicstyle.co.nz">
-                Email
-            </a>
-        </li>
-        <li><i class="fa fa-phone-square" aria-hidden="true"></i>
-            Tania 027 227 5957
-        </a></li>
-    </ul>
+<div class="author__urls-wrapper">    
+     <ul class="author__urls social-icons" style="">        
+         <li>            
+             <a href="mailto:agk34@cam.ac.uk">                
+                 <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>                
+                 <meta itemprop="email" content="agk34@cam.ac.uk">                
+                 Email            
+             </a>        
+          </li>        
+          <li><a href="https://scholar.google.co.uk/citations?user=+" itemprop="sameAs">            
+             <i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>            
+             Google Scholar        
+           </a></li>    
+     </ul>
 </div>
 
