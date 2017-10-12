@@ -3,6 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
+author_profile: false
 title: About
 permalink: /about/
 header:
@@ -11,6 +12,17 @@ header:
   overlay_image: /assets/images/kings.jpg
   caption: "Photo: Olly McMillan"
   excerpt: "Nordic Style and Klippan<br><br><br>"
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
+
+
 ---
 
 <div class="author__avatar">
@@ -33,6 +45,11 @@ Hazrat Inayat Khan
 
 
 ## Contact details
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 
 <div class="author__urls-wrapper">
     <ul class="author__urls social-icons" style="">
