@@ -15,14 +15,11 @@ header:
 
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
+    image: /assets/images/Klippan_Logo.PNG/446x389
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
-    text: "More text here."
-
-
-
+    text: "More text here. ereru iuioruuru893u8 u893 u89u89347 8937u897 98u87893u v89u839u8934u 4u8934789478 89347 8934834v89473894738473.  euqueyue89 e9y8e 89ee89yuee89e89ue89 eq98e98e q."
 ---
 
 <div class="author__avatar">
