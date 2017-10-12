@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 read_time: false
 comments: false
@@ -15,11 +15,7 @@ header:
 
 sidebar:
   - title: "Title"
-<<<<<<< HEAD
     image: /assets/images/Klippan_Logo.PNG/446x389
-=======
-    image: http://hold.it/350x250
->>>>>>> de1e9c771bc23dfbddfc2dcdf9450b5f2ec17695
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
