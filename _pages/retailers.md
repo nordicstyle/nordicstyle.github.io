@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/trinity.jpg
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
-excerpt: "Geometry and Uncertainty in Deep Learning for Computer Vision<br><br><br>"
+excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 gallery_uncertainty:
   - image_path: /assets/images/research/input.png
     alt: "Input Image"
