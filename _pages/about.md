@@ -3,26 +3,33 @@ layout: single
 read_time: false
 comments: false
 share: false
-author_profile: false
-title: <br><br><br><br><br>About
+title: About
 permalink: /about/
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/kings.jpg
   caption: "Photo: Olly McMillan"
+  excerpt: "Nordic Style and Klippan<br><br><br>"
 ---
 
 <div class="author__avatar">
     <img src="/assets/images/alex.jpg" class="author__avatar" alt="Alex Kendall" itemprop="image">
 </div>
 
-## Brief biography
+## Nordic Style
 
-Alex Kendall is a Research Fellow at [Trinity College](https://www.trin.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/) in the United Kingdom.
-He graduated with a Bachelor of Engineering with First Class Honours in 2013 from the [University of Auckland](https://www.auckland.ac.nz/), New Zealand.
-In 2014, he was awarded a [Woolf Fisher Scholarship](http://www.woolffishertrust.co.nz/) to study towards a Ph.D. at the University of Cambridge.
-He is a member of the [Machine Intelligence Laboratory](https://mi.eng.cam.ac.uk/Main/CVR) and is supervised by [Prof. Roberto Cipolla](https://mi.eng.cam.ac.uk/~cipolla/).
+Welcome to Nordic Style, the New Zealand Agency for [Klippan](https://https://klippanyllefabrik.com), Sweden.
+
+
+Nordic Style has been in operation since 2008 and is run by Rachel, Palle, Tania and Guy. Palle has the long relationship with Klippan as their supplier of New Zealand wool. With New Zealand’s top quality wool Klippan produces luxurious throws and now they are available to you through a number of selected retailers.
+
+A throw will brighten any room and two together make a great contrasting look. They are the perfect timeless gift for any special occasion.
+
+
+“Some people look for a beautiful place, others make a place beautiful”
+Hazrat Inayat Khan
+
 
 
 ## Contact details
