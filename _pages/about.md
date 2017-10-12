@@ -15,7 +15,7 @@ header:
 
 sidebar:
   - title: "Title"
-    image: http://placehold.it/350x250
+    image: http://hold.it/350x250
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
@@ -34,12 +34,12 @@ sidebar:
 Welcome to Nordic Style, the New Zealand Agency for [Klippan](https://https://klippanyllefabrik.com), Sweden.
 
 
-Nordic Style has been in operation since 2008 and is run by Rachel, Palle, Tania and Guy. Palle has the long relationship with Klippan as their supplier of New Zealand wool. With New Zealandís top quality wool Klippan produces luxurious throws and now they are available to you through a number of selected retailers.
+Nordic Style has been in operation since 2008 and is run by Rachel, Palle, Tania and Guy. Palle has the long relationship with Klippan as their supplier of New Zealand wool. With New Zealand‚Äôs top quality wool Klippan produces luxurious throws and now they are available to you through a number of selected retailers.
 
 A throw will brighten any room and two together make a great contrasting look. They are the perfect timeless gift for any special occasion.
 
 
-ìSome people look for a beautiful place, others make a place beautifulî
+‚ÄúSome people look for a beautiful place, others make a place beautiful‚Äù
 Hazrat Inayat Khan
 
 
