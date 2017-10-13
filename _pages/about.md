@@ -19,10 +19,7 @@ sidebar:
     image_alt: "image"
     text: "Some text here."
   - title: "Klippan, Sweden"
-    text: "The Klippan Yllefabrik AB was founded in 1879. Today, the fourth and fifth generations are working side by side, developing the company. Our philosophy is to combine Swedish design with our long tradition of textile knowledge.
-
-
-We have developed a textile collection in collaboration with famous Swedish designers. All our blankets and throws are manufactured in our own factory. We only use natural material in our products and try to use eco-material as much as possible."
+    text: "The Klippan Yllefabrik AB was founded in 1879. Today, the fourth and fifth generations are working side by side, developing the company. Our philosophy is to combine Swedish design with our long tradition of textile knowledge"
 ---
 
 <div class="author__avatar">
