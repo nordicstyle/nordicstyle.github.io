@@ -15,7 +15,7 @@ header:
 
 sidebar:
   - title: "Title"
-    image: /assets/images/Klippan_Logo.PNG/446x389
+    image: /assets/images/Klippan_Logo.png
     image_alt: "image"
     text: "Some text here."
   - title: "Another Title"
