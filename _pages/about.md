@@ -21,6 +21,7 @@ sidebar:
 
 Klippan manufactures their blankets and throws in our their factories.  They only use natural materials and try to use eco-material as much as possible."
 ---
+
 ## Nordic Style
 
 Welcome to Nordic Style, the New Zealand Agency for [Klippan](https://https://klippanyllefabrik.com), Sweden.
