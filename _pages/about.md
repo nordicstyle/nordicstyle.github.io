@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 read_time: false
 comments: false
@@ -15,11 +15,14 @@ header:
 
 sidebar:
   - title: "Title"
-    image: /assets/images/Klippan_Logo.png
+    image: /assets/images/Klippan_Logo_350.jpg
     image_alt: "image"
     text: "Some text here."
-  - title: "Another Title"
-    text: "More text here. ereru iuioruuru893u8 u893 u89u89347 8937u897 98u87893u v89u839u8934u 4u8934789478 89347 8934834v89473894738473.  euqueyue89 e9y8e 89ee89yuee89e89ue89 eq98e98e q."
+  - title: "Klippan, Sweden"
+    text: "The Klippan Yllefabrik AB was founded in 1879. Today, the fourth and fifth generations are working side by side, developing the company. Our philosophy is to combine Swedish design with our long tradition of textile knowledge.
+
+
+We have developed a textile collection in collaboration with famous Swedish designers. All our blankets and throws are manufactured in our own factory. We only use natural material in our products and try to use eco-material as much as possible."
 ---
 
 <div class="author__avatar">
