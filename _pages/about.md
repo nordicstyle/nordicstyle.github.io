@@ -14,18 +14,13 @@ header:
   excerpt: "Nordic Style and Klippan<br><br><br>"
 
 sidebar:
-  - title: "Title"
-    image: /assets/images/Klippan_Logo_350.jpg
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Klippan, Sweden"
-    text: "The Klippan Yllefabrik AB was founded in 1879. Today, the fourth and fifth generations are working side by side, developing the company. Our philosophy is to combine Swedish design with our long tradition of textile knowledge"
+  - title: "Klippan, Sweden"
+    image: /assets/images/Klippan_Logo_150.jpg
+    image_alt: "Klippan Logo"
+    text: "Klippan was founded in 1879 and is run today by fourth and fifth generation descendents.  Klippan is based in the village of Klippan on the southern tip of Sweden.
+
+Klippan manufactures their blankets and throws in our their factories.  They only use natural materials and try to use eco-material as much as possible."
 ---
-
-<div class="author__avatar">
-    <img src="/assets/images/alex.jpg" class="author__avatar" alt="Alex Kendall" itemprop="image">
-</div>
-
 ## Nordic Style
 
 Welcome to Nordic Style, the New Zealand Agency for [Klippan](https://https://klippanyllefabrik.com), Sweden.
