@@ -4,7 +4,7 @@ read_time: false
 comments: false
 share: false
 author_profile: false
-title: <br><br><br><br>Klippan Throws from Nordic Style
+title: <br><br><br>Klippan Throws from Nordic Style
 permalink: /
 header:
   overlay_color: "#000"
@@ -12,8 +12,7 @@ header:
   overlay_image: /assets/images/trinity.jpg
   cta_url: "/retailers"
   cta_label: "Available from selected Retailers"
-  caption: "Photo: Olly McMillan"
-excerpt: "Swedish Design, NZ Wool<br><br><br>"
+excerpt: "Swedish Design, NZ Wool<br><br>"
 gallery:
   - url: /assets/images/uncertainty.jpg
     image_path: /assets/images/uncertainty.jpg
@@ -29,6 +28,4 @@ gallery:
     title: "Image 3 title caption"
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
----
+{% include gallery %}
