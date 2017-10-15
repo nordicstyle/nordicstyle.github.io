@@ -10,7 +10,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/kings.jpg
-  caption: "Photo: Olly McMillan"
 excerpt: "Nordic Style and Klippan<br><br><br>"
 ---
 

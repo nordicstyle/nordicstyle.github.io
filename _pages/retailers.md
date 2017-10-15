@@ -9,7 +9,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: /assets/images/trinity.jpg
-  caption: "Photo: Olly McMillan"
 excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 ---
 
