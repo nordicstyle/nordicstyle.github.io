@@ -11,6 +11,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/trinity.jpg
   cta_url: "#/retailers"
+  cta_label: "Available from selected Retailers"
   caption: "Photo: Olly McMillan"
 excerpt: "Swedish Design, NZ Wool<br><br><br>"
 feature_row:
