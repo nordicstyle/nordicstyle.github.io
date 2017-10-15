@@ -15,8 +15,8 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 
 ## Retailers from North to South
 
-| North Island  |
-|---------------|-----------------------|-------------------------------|
+| North Island  |                       |                             |
+|---------------|-----------------------|-----------------------------|
 |Auckland	    |nord	                |1 Fleet Street, Devonport      |
 |Auckland	    |Good Thing             |849 New North Road, Mt. Albert |
 |Waiheke Island	|Veranda	            |2/116 Ocean View Road, Oneroa  |
@@ -28,8 +28,9 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 |Wellington	    |Vessel	                |87 Victoria Street             |
 |Wellington	    |Tea Pea	            |22 Ganges Road, Khandallah     |
 
-| South Island  |
-|---------------|-----------------------|-------------------------------|
+
+| South Island  |                       |                       |
+|---------------|-----------------------|-----------------------|
 |Nelson     	    |Red Art Gallery |  1 Bridge Street         |
 |Blenheim        	    |Mihi Merino |193 Rapaura Road          |
 |Waipara	|Black Estate	|614 Omihi Road |
