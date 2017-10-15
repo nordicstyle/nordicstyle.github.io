@@ -28,21 +28,12 @@ Hazrat Inayat Khan
 
 
 ## Klippan
-<img style="float:right" src="/assets/images/Klippan_Logo_150.jpg" />
+<img style="float:right" src="/assets/images/Klippan_Logo_150.jpg" alt="Klippan Logo" />
 
 Klippan was founded in 1879 and is run today by fourth and fifth generation descendents.  Klippan is based in the village of Klippan on the southern tip of Sweden. Klippan manufactures their blankets and throws in our their factories.  They only use natural materials and try to use eco-material as much as possible.
-Inline-style:
-![alt text](/assets/images/Klippan_Logo_150.jpg "Klippan Logo")
 
 
 ## Contact details
-![alt text](/assets/images/phone.png "Contact Phone")
+![alt text](/assets/images/phone.png "Contact Phone") Tania  027 227 5956
 
-![alt text](/assets/images/email.png "Contact Email")
-
-
-Email:  tania@nordicstyle.co.nz
-Tania:  027 227 5956
-
-
-
+![alt text](/assets/images/email.png "Contact Email")  tania@nordicstyle.co.nz
