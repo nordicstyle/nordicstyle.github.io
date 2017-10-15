@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Website Content Copyright (c) 2016 Alex Kendall
+Website Content Copyright (c) 2017 Nordic Style Limited
 Website Theme Copyright (c) 2016 Michael Rose
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
