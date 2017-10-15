@@ -16,7 +16,7 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 ## Retailers from North to South
 
 | North Island  |
-|---------------|-----------------------|-------------------------------|
+|---------------|
 |Auckland	    |nord	                |1 Fleet Street, Devonport      |
 |Auckland	    |Good Thing             |849 New North Road, Mt. Albert |
 |Waiheke Island	|Veranda	            |2/116 Ocean View Road, Oneroa  |
