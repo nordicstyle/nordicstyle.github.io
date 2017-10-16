@@ -9,7 +9,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/trinity.jpg
+  overlay_image: /assets/images/trinity3.jpg
   cta_url: "/retailers"
   cta_label: "Available from selected Retailers"
 excerpt: "Swedish Design, NZ Wool<br><br>"
