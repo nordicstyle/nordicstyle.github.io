@@ -29,3 +29,10 @@ gallery:
 ---
 
 {% include gallery %}
+
+
+A throw will brighten any room and two together make a great contrasting look. They are the perfect timeless gift for any special occasion.
+
+
+“Some people look for a beautiful place, others make a place beautiful”
+Hazrat Inayat Khan
