@@ -4,7 +4,7 @@ read_time: false
 comments: false
 share: false
 author_profile: false
-title: <br><br><br>Klippan Throws from Nordic Style
+title: Klippan Throws from Nordic Style
 permalink: /
 header:
   overlay_color: "#000"
