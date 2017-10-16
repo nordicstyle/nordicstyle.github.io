@@ -28,5 +28,6 @@ Nordic Style has been in operation since 2008 and is run by Rachel, Palle, Tania
 
 ## Contact details
 ![alt text](/assets/images/phone.png "Contact Phone") Tania  027 227 5956
+![alt text](/assets/images/phone.png "Contact Phone") Rachael  027 480 5985
 
 ![alt text](/assets/images/email.png "Contact Email")  tania@nordicstyle.co.nz
