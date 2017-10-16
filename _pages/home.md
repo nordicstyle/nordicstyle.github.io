@@ -15,11 +15,11 @@ header:
 excerpt: "Swedish Design, NZ Wool<br><br>"
 gallery:
   - url: /assets/images/uncertainty.jpg
-    image_path: /assets/images/uncertainty.jpg
+    image_path: /assets/images/poster.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/poster.jpg
-    image_path: /assets/images/poster.jpg
+    image_path: /assets/images/uncertainty.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /assets/images/tti_presentation.jpg
