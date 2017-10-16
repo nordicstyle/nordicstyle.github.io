@@ -25,7 +25,8 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 |Havelock North	|Cadeaux	            |Shop 2, 7 Joll Road            |
 |Martinborough	|Mint at Martinborough	|14 Ohio Street                 |
 |Wellington	    |Vessel	                |87 Victoria Street             |
-|Wellington	    |Tea Pea	            |22 Ganges Road, Khandallah\ 1 Grey Street     |
+|Wellington	    |Tea Pea	            |22 Ganges Road, Khandallah     |
+|Wellington	    |Tea Pea	            |1 Grey Street                  |
 
 
 | South Island  |                       |                       |
