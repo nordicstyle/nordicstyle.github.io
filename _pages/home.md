@@ -35,4 +35,5 @@ A throw is the perfect timeless gift for any special occasion.  It will brighten
 
 
 “Some people look for a beautiful place, others make a place beautiful”
+
 Hazrat Inayat Khan
