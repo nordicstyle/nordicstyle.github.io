@@ -26,8 +26,6 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 |Martinborough	|Mint at Martinborough	|14 Ohio Street                 |
 |Wellington	    |Vessel	                |87 Victoria Street             |
 |Wellington	    |Tea Pea	            |22 Ganges Road, Khandallah     |
-
-
 | South Island  |                       |                       |
 |---------------|-----------------------|-----------------------|
 |Nelson     	    |Red Art Gallery |  1 Bridge Street         |
