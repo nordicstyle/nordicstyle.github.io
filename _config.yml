@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "Nordic Style"
 description              : "Klippan Throws NZ Wool Swedish Design"
-url                      : "https://nordicstyle.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.nordicstyle.co.nz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nordicstyle/nordicstyle.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -73,7 +73,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-59463920-2"
+    tracking_id          : "UA-108262540-1"
 
 
 # Site Author
