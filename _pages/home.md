@@ -16,16 +16,16 @@ excerpt: "Swedish Design, NZ Wool<br><br>"
 gallery:
   - url: /assets/images/uncertainty.jpg
     image_path: /assets/images/poster.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Klippan throw 1"
+    title: "Klippan throw 1"
   - url: /assets/images/poster.jpg
     image_path: /assets/images/uncertainty.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Klippan throw 2"
+    title: "Klippan throw 2"
   - url: /assets/images/tti_presentation.jpg
     image_path: /assets/images/tti_presentation.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Klippan throw 3"
+    title: "Klippan throw 3"
 ---
 
 {% include gallery %}
@@ -34,4 +34,4 @@ gallery:
 A throw is the perfect timeless gift for any special occasion.  It will brighten any room and two together make a great contrasting look.
 
 
-“Some people look for a beautiful place, others make a place beautiful”
+> “Some people look for a beautiful place, others make a place beautiful”
