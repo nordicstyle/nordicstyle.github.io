@@ -20,7 +20,7 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 |Auckland	    |Good Thing             |849 New North Road, Mt. Albert |
 |Waiheke Island	|Veranda	            |2/116 Ocean View Road, Oneroa  |
 |Raglan	        |Kanuka Design          |1 Wainui Road                  |
-|Gisborne	    |Palembang Home	        |115 Grey Street                |
+|Gisborne	    |Palembang Home	        |126 Gladstone Rd               |
 |Turangi	    |Creel Tackle House	    |189 Taupahi Rd                 |
 |Havelock North	|Cadeaux	            |Shop 2, 7 Joll Road            |
 |Martinborough	|Mint at Martinborough	|14 Ohio Street                 |
