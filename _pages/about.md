@@ -30,4 +30,5 @@ Nordic Style has been in operation since 2008 and is run by Rachel, Palle, Tania
 :telephone_receiver: Rachel 03 329 0065 or 027 480 5985
 
 :email: tania@nordicstyle.co.nz
+
 :email: rachel@nordicstyle.co.nz
