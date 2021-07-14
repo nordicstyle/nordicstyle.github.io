@@ -36,13 +36,13 @@ excerpt: "Selected Retailers throughout New Zealand<br><br><br>"
 |Waipara	|Black Estate	|614 Omihi Road |
 |Darfield	|Darfield Gift Gallery	|51 South Terrace |
 |Christchurch	|Nordic Chill	|The Colombo |
-|Christchurch	|The General Store	|Riverside Container Mall, Cashel Mall |
 |Christchurch	|The Ivy	|55 Nayland Street,  Sumner |
 |Christchurch	|French Blue	|9a Normans Road |
 |Christchurch	|Cosi Fan Tutte	|The Tannery |
 |Christchurch	|Coco Gifts	|63 Rutland Street |
 |Christchurch	|Little Folk	|The Tannery |
 |Akaroa	|Ca Bouge	|34 Rue Lavaud |
+|Oxford	|NZULU	|55a Main Street |
 |Oamaru	|Mrs Hyde Boutique	|41 Thames Street |
 |Clyde	|Folklore	|19 Holloway Street |
 |Queenstown	|Decode	|13 Camp Street |
